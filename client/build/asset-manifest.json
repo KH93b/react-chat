@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KH93b/react-chat.git/static/css/main.910aa548.chunk.css",
+    "main.js": "/KH93b/react-chat.git/static/js/main.fd3e003c.chunk.js",
+    "main.js.map": "/KH93b/react-chat.git/static/js/main.fd3e003c.chunk.js.map",
+    "runtime-main.js": "/KH93b/react-chat.git/static/js/runtime-main.18e6390e.js",
+    "runtime-main.js.map": "/KH93b/react-chat.git/static/js/runtime-main.18e6390e.js.map",
+    "static/js/2.93c2d232.chunk.js": "/KH93b/react-chat.git/static/js/2.93c2d232.chunk.js",
+    "static/js/2.93c2d232.chunk.js.map": "/KH93b/react-chat.git/static/js/2.93c2d232.chunk.js.map",
+    "index.html": "/KH93b/react-chat.git/index.html",
+    "precache-manifest.4c395966707880d8a4f7ac6a06f87e84.js": "/KH93b/react-chat.git/precache-manifest.4c395966707880d8a4f7ac6a06f87e84.js",
+    "service-worker.js": "/KH93b/react-chat.git/service-worker.js",
+    "static/css/main.910aa548.chunk.css.map": "/KH93b/react-chat.git/static/css/main.910aa548.chunk.css.map",
+    "static/js/2.93c2d232.chunk.js.LICENSE.txt": "/KH93b/react-chat.git/static/js/2.93c2d232.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18e6390e.js",
+    "static/js/2.93c2d232.chunk.js",
+    "static/css/main.910aa548.chunk.css",
+    "static/js/main.fd3e003c.chunk.js"
+  ]
+}
